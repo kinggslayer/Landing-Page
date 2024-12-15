@@ -2,7 +2,8 @@ Problem Statement:
 1. Create a dummy landing page with Header (Home, About us, Login, Register user)
 2. On the footer - Home and About us button should be on mapped to the home page itself
 3. Below the header create a form title 'User data' with 
-    a.Username- Boundary value of min 4 and max 32 
+    a.Username- Boundary value of min 4 and max 32
+    
     b.Password,  - Alphanumeric combination with special char as mandatory
     c.Gender fields (radio button),
     d.Skills (JS,React,API,Backend - as a drop down)
